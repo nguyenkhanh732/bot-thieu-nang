@@ -1,5 +1,5 @@
 {
-    "prefix": "/>",
+    "prefix": "^",
     "emoji": {
         "play": "▶️",
         "stop": "⏹️",
@@ -15,8 +15,8 @@
         "search": "🔍"
     },
     "author": {
-        "name": "thanhgaming5550",
-        "id": 384282911479693313
+        "name": "miloz29",
+        "id": 1113342326157361262
     },
     "source": {
         "command": "src/Commands/commands",
